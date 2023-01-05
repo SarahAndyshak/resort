@@ -27,9 +27,43 @@ img {
   width: 30%;
   float: right;
   background-color: yellow;
+  border: 4px solid green;
+  padding: 20px;
+  margin-top: 32px;
+  margin-bottom: 49px;
 }
 
 .column {
-  width: 300px;
-  float: left;
+  width: 300px
+  float: center;
+}
+
+
+.column1 {
+  width: 30%;
+  border: solid rgb(119, 26, 26);
+  border-width: 1px;
+  background-color: orange;
+  margin: 10px;
+  box-sizing: border-box;
+}
+
+.column2 {
+  width: 30%;
+  padding: 20px;
+  border: solid rgb(48, 36, 87);
+  border-width: 20px;
+  background-color: orange;
+  margin: 10px;
+  box-sizing: border-box;
+}
+
+.column3 {
+  width: 30%;
+  padding: 50px;
+  border: solid rgb(40, 173, 25);
+  border-width: 30px;
+  background-color: orange;
+  margin: 10px;
+  box-sizing: border-box;
 }
