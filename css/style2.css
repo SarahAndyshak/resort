@@ -16,3 +16,20 @@ p {
 li {
   line-height: 50 px; 
 }
+
+img {
+  float: left;
+  width: 400px; 
+  height:auto;
+}
+
+.sidebar {
+  width: 30%;
+  float: right;
+  background-color: yellow;
+}
+
+.column {
+  width: 300px;
+  float: left;
+}
